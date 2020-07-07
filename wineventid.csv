@@ -1,0 +1,8 @@
+4624,Successful User Account Login,An account has successfully logged on.,Informational,Security,Microsoft-Windows-Security- Auditing
+4625,Failed User Account Login,An account has failed to log on.,Informational,Security,Microsoft-Windows-Security- Auditing
+4648,Account Login with Explicit Credentials,A logon was attempted using explicit credencials.,Informational,Security,Microsoft-Windows-Security- Auditing
+4728,User Added to Privileged Group,A member was added to a security-enabled global group.,Informational,Security,Microsoft-Windows-Security- Auditing
+4732,User Added to Privileged Group,A member was added to a security-enabled local group.,Informational,Security,Microsoft-Windows-Security- Auditing
+4756,User Added to Privileged Group,A member was added to a security-enabled universal group.,Informational,Security,Microsoft-Windows-Security- Auditing
+4735,Security-Enabled group Modification,A security-enabled local group was changed.,Informational,Security,Microsoft-Windows-Security- Auditing
+4740,Account Lockouts,A user account was locked out.,Informational,Security,Microsoft-Windows-Security- Auditing
