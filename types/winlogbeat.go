@@ -1,6 +1,8 @@
-package main
+package types
 
-import "fmt"
+import (
+	"time"
+)
 
 type Winlogbeat struct {
 	Event struct {

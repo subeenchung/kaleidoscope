@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gitlab.com/jesteringjester/kaleidoscope/types"
+	"github.com/subeenchung/kaleidoscope/types"
 
 	"gopkg.in/confluentinc/confluent-kafka-go.v1/kafka"
 )
