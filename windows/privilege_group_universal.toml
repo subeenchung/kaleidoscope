@@ -1,0 +1,5 @@
+name = "User Added to Privileged Group (Universal Scope)"
+desc = "A member was added to a security-enabled universal group."
+log_level = "Informational"
+log_type = "Security"
+event_id = 4756

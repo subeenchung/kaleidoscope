@@ -1,0 +1,5 @@
+name = "Account Lockouts"
+desc = "A user account was locked"
+log_level = "Informational"
+log_type = "Security"
+event_id = 4740

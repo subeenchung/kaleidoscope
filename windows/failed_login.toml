@@ -1,0 +1,5 @@
+name = "Failed User Account Login"
+desc = "An account has failed to log on."
+log_level = "Informational"
+log_type = "Security"
+event_id = 4625

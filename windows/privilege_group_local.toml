@@ -1,0 +1,5 @@
+name = "User Added to Privileged Group (Local Scope)"
+desc = "A member was added to a security-enabled local group."
+log_level = "Informational"
+log_type = "Security"
+event_id = 4732

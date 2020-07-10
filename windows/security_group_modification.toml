@@ -1,0 +1,5 @@
+name = "Security-Enabled group Modification"
+desc = "A security-enabled local group was changed."
+log_level = "Informational"
+log_type = "Security"
+event_id = 4735
